@@ -9,6 +9,7 @@ Following releases are included:
 * Release 73 dated 2020.09.30.
 * Release 74 dated 2020.12.22.
 * Release 75 dated 2021.02.04.
+* Release 76 dated 2021.05.21.
 
 Code which generates these files can be found here: https://github.com/UniCourt/cic-beautify-state-codes
 
@@ -23,3 +24,5 @@ The Standardised HTMLs can be found here: https://unicourt.github.io/cic-code-tn
 **Mississippi (MS):** https://unicourt.github.io/cic-code-ms
 
 **Arkansas (AR):** https://unicourt.github.io/cic-code-ar
+
+**Kentucky (KY):** https://unicourt.github.io/cic-code-ky
