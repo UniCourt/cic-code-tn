@@ -19,16 +19,18 @@ The Standardised HTMLs can be found here: https://unicourt.github.io/cic-code-tn
 
 ###### Other state Codes:
 
-**Georgia (GA):** https://unicourt.github.io/cic-code-ga
+ **Georgia (GA):** https://unicourt.github.io/cic-code-ga
 
-**Mississippi (MS):** https://unicourt.github.io/cic-code-ms
+ **Mississippi (MS):** https://unicourt.github.io/cic-code-ms
 
-**Arkansas (AR):** https://unicourt.github.io/cic-code-ar
+ **Arkansas (AR):** https://unicourt.github.io/cic-code-ar
 
-**Kentucky (KY):** https://unicourt.github.io/cic-code-ky
+ **Kentucky (KY):** https://unicourt.github.io/cic-code-ky
 
-**Colorado (CO):** https://unicourt.github.io/cic-code-co
+ **Colorado (CO):** https://unicourt.github.io/cic-code-co
 
-**Idaho (ID):** https://unicourt.github.io/cic-code-id
+ **Idaho (ID):** https://unicourt.github.io/cic-code-id
 
  **Virginia (VA):** https://unicourt.github.io/cic-code-va
+
+ **Vermont (VT):** https://unicourt.github.io/cic-code-vt
