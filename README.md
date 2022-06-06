@@ -39,4 +39,6 @@ The Standardised HTMLs can be found here: https://unicourt.github.io/cic-code-tn
  
  **North Carolina (NC):** https://unicourt.github.io/cic-code-nc
  
-**North Dakota (ND):** https://unicourt.github.io/cic-code-nd
+ **North Dakota (ND):** https://unicourt.github.io/cic-code-nd
+
+ **Alaska (AK):** https://unicourt.github.io/cic-code-ak
